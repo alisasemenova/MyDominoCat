@@ -14,7 +14,6 @@ Game::Game(QWidget *parent){
 
     scene = new QGraphicsScene();
     scene->setSceneRect(0,0,1024,768);
-    //setBackgroundBrush(QBrush(QImage(":/img/wood.jpg")));
     setScene(scene);
 
 }
