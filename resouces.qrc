@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/extra">
+        <file>test.png</file>
+        <file>blockD1.png</file>
+        <file>blockD2.png</file>
+        <file>blockD3.png</file>
+        <file>blockD4.png</file>
+        <file>blockD5.png</file>
+        <file>blockD6.png</file>
+        <file>blockD0.png</file>
+        <file>catEnemy.png</file>
+        <file>dominoGame    .wav</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,11 @@
+release/basicButtons.o
+release/beginButton.o
+release/dominoLogic.o
+release/gameMain.o
+release/playerLogic.o
+release/randoomizerLogic.o
+release/sandbox.o
+release/main.o
+release/qrc_resouces.o
+release/moc_beginButton.o
+release/moc_gameMain.o

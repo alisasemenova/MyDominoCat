@@ -1,0 +1,11 @@
+debug/basicButtons.o
+debug/beginButton.o
+debug/dominoLogic.o
+debug/gameMain.o
+debug/playerLogic.o
+debug/randoomizerLogic.o
+debug/sandbox.o
+debug/main.o
+debug/qrc_resouces.o
+debug/moc_beginButton.o
+debug/moc_gameMain.o
